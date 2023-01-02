@@ -1,0 +1,19 @@
+{
+  "packages": [
+    "pony-gtk4"
+  ],
+  "deps": [
+    {
+      "locator": "github.com/redvers/pony-glib.git",
+      "version": ""
+    }
+  ],
+  "info": {
+    "description": "A pony port of Gtk4",
+    "homepage": "https://github.com/redvers/pony-gtk4/",
+    "license": "BSD-2-Clause",
+    "documentation_url": "https://redvers.github.io/pony-gtk4",
+    "version": "0.0.0",
+    "name": "pony-gtk4"
+  }
+}
